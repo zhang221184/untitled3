@@ -1,3 +1,5 @@
+package practice;
+
 public abstract class Test {
 
     }
